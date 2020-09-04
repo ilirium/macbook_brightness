@@ -9,3 +9,5 @@ Sources of data to calculate prototype
 Sources of min and max values of MacBook Pro
 
 * [Review of MacBook Pro 2016](https://www.ixbt.com/portopc/macbook-pro-2016.shtml)
+    * min = 5 cd/m²
+    * max = 530 cd/m²
